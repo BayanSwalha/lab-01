@@ -1,7 +1,7 @@
 void main() {
   Map bayanInformation = {
     "first_name": "Bayan",
-    "last_name": "omar",
+    "last_name": "Swalhah",
     "age": 23,
     "favorits": [
       {
